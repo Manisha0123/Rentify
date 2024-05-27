@@ -1,0 +1,15 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .home a:hover {
+    text-decoration: underline;
+  }
+  
